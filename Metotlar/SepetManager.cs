@@ -15,11 +15,6 @@ namespace Metotlar
 
         }
 
-        public void Ekle2() 
-        {
-
         
-        }
-
     }
 }

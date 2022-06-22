@@ -13,6 +13,10 @@ sayilar2[0] = 999;
 //sayilar1[0] = ?? cevap : 999
 
 
-//int, decimal, float, double, boolean = "değer tip" 
-//array, class, interface = "referans tip"
+//int, decimal, float, double, boolean ... = "değer tip" 
+//array, class, abstract class, interface ... = "referans tip"
 //stack ve heap
+
+//Bir referans türü olan string ile ilgili bu konuda önemli bir istisna vardır.
+// string referans türü olmasına rağmen
+// metotlara geçirilirken değer tipiymiş gibi kopyalanırlar.
