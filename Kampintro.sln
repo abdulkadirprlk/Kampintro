@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kampintro", "Kampintro\Kampintro.csproj", "{B81BB9A7-1F5D-4CCA-8E64-3351CDC1A942}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro", "Kampintro\KampIntro.csproj", "{B81BB9A7-1F5D-4CCA-8E64-3351CDC1A942}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Donguler.csproj", "{08D37FB3-E16F-44DF-AA95-4CF52C3F7675}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classintro", "Classintro\Classintro.csproj", "{B3A42642-75AD-47EB-8861-D921B1505BC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "Classintro\ClassIntro.csproj", "{B3A42642-75AD-47EB-8861-D921B1505BC5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Karalama", "Karalama\Karalama.csproj", "{1F8AC126-131E-4011-A9DD-2A93DA704D16}"
 EndProject
@@ -19,11 +19,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "De
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{2F9CE7BC-D231-4ECD-A64F-D0A0AA84C1FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{F06C7E9C-74B3-4642-A5CF-2794FDE0D1A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{F06C7E9C-74B3-4642-A5CF-2794FDE0D1A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{BC1A0C79-FEEF-4E03-9F03-A0AA1455D775}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{BC1A0C79-FEEF-4E03-9F03-A0AA1455D775}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genericsintro", "Genericsintro\Genericsintro.csproj", "{3052522D-0D20-4523-93BB-8576391251DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "Genericsintro\GenericsIntro.csproj", "{3052522D-0D20-4523-93BB-8576391251DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "ReferenceTypes\Constructors.csproj", "{84B37651-43DF-4FA2-8201-4DDD978CCE61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryGenerics", "MyDictionary\DictionaryGenerics.csproj", "{58E50EDC-1921-428D-AF4D-59C49DE9ECA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{3052522D-0D20-4523-93BB-8576391251DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3052522D-0D20-4523-93BB-8576391251DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3052522D-0D20-4523-93BB-8576391251DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84B37651-43DF-4FA2-8201-4DDD978CCE61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B37651-43DF-4FA2-8201-4DDD978CCE61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B37651-43DF-4FA2-8201-4DDD978CCE61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B37651-43DF-4FA2-8201-4DDD978CCE61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58E50EDC-1921-428D-AF4D-59C49DE9ECA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E50EDC-1921-428D-AF4D-59C49DE9ECA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E50EDC-1921-428D-AF4D-59C49DE9ECA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E50EDC-1921-428D-AF4D-59C49DE9ECA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
