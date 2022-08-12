@@ -7,7 +7,7 @@ string kurs3 = "c# kursu";
 
 string[] kurslar = new string[] { "java kursu",   //syntax ilginçmiş
     "python kursu",
-    "c# kursu","c++" };
+    "c# kursu","c++ kursu" };
 
 for (int i = 0; i<kurslar.Length; i++) //pythondaki while gibi
 {

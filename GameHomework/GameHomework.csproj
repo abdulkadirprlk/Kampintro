@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Homeworks\GameHomework\" />
-  </ItemGroup>
-
 </Project>
